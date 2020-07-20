@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#filterInput {
+  width: 80%;
+  align-self: center;
+}
+
+.contact-container {
+  display: block;
+}
+
+.contact-container li {
+  list-style-type: none;
+  padding: 10px 0 10px 10px;
+  border: 1px solid #ccc;
+}
